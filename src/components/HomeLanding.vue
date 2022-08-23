@@ -49,8 +49,9 @@ export default defineComponent ({
   margin: auto;
   padding-left:60px;
   padding-right: 20px;
+  padding-top:50px;
   background: #FFF5F5;
-  padding-bottom:120px;
+  /* padding-bottom:120px; */
 }
 
 .blue-text{
